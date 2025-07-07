@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "p:\\important\\gamedev\\_unrealprojects\\gmtk2025\\plugins\\developer\\riderlink\\source\\riderdebuggersupport\\private\\debuglogger.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "p:\\important\\gamedev\\_unrealprojects\\gmtk2025\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\riderdebuggersupport\\definitions.h",
+            "p:\\important\\gamedev\\_unrealprojects\\gmtk2025\\plugins\\developer\\riderlink\\source\\riderdebuggersupport\\private\\debuglogger.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
