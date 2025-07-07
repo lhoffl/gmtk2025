@@ -45,9 +45,14 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
-# Binary Files
+# Ignore all binary files and plugin binaries
 Binaries/*
-Plugins/*/Binaries/*
+Plugins/**/Binaries/*
+
+# Allow FMOD binaries
+!Plugins/FMOD/
+!Plugins/FMOD/Binaries/
+!Plugins/FMOD/Binaries/**
 
 # Builds
 Build/*

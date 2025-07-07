@@ -1,9 +1,9 @@
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/cfg.cpp"
-@"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.Shared.rsp"
-/FI"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Definitions.h"
-/Fo"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.obj"
-/experimental:log "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.sarif"
-/sourceDependencies "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.dep.json"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/cfg.cpp"
+@"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.Shared.rsp"
+/FI"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Definitions.h"
+/Fo"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.obj"
+/experimental:log "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.sarif"
+/sourceDependencies "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

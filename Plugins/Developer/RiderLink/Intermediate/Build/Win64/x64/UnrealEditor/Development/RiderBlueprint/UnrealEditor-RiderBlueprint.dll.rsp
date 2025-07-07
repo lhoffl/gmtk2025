@@ -36,13 +36,11 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Module.RiderBlueprint.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/BlueprintProvider.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/RiderBlueprint.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Default.rc2.res"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Module.RiderBlueprint.cpp.obj"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/SlateCore/UnrealEditor-SlateCore.lib"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.lib"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/UnrealEditor-Slate.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/AssetRegistry/UnrealEditor-AssetRegistry.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/MessagingCommon/UnrealEditor-MessagingCommon.lib"
@@ -50,7 +48,7 @@
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEdMessages/UnrealEditor-UnrealEdMessages.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/UnrealEditor-RD.lib"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/UnrealEditor-RD.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -76,6 +74,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.dll"
-/PDB:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb"
+/OUT:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.dll"
+/PDB:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb"
 /ignore:4078

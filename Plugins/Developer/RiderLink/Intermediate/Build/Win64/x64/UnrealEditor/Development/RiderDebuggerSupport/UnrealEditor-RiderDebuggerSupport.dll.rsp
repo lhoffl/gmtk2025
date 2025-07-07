@@ -36,13 +36,8 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Module.RiderDebuggerSupport.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/BlueprintStackGetter.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/DebugLogger.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/RiderDebuggerSupport.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/UnrealFunctions.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/WideStringWrapper.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Default.rc2.res"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Module.RiderDebuggerSupport.cpp.obj"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
@@ -71,6 +66,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderDebuggerSupport.dll"
-/PDB:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderDebuggerSupport.pdb"
+/OUT:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderDebuggerSupport.dll"
+/PDB:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderDebuggerSupport.pdb"
 /ignore:4078

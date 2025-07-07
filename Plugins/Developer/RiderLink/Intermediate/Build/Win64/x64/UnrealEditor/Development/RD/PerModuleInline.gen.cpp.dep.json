@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "p:\\important\\gamedev\\_unrealprojects\\gmtk2025\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\permoduleinline.gen.cpp",
+        "Source": "p:\\important\\gamedev\\_unrealprojects\\gmtk2025test\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "p:\\important\\gamedev\\_unrealprojects\\gmtk2025\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h",
+            "p:\\important\\gamedev\\_unrealprojects\\gmtk2025test\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h",
             "d:\\e\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
             "d:\\e\\ue_5.6\\engine\\source\\runtime\\core\\public\\coreglobals.h",
             "d:\\e\\ue_5.6\\engine\\source\\runtime\\core\\public\\containers\\unrealstring.h",

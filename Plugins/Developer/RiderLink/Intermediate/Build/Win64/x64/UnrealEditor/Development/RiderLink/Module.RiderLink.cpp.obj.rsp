@@ -1,9 +1,9 @@
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp"
-@"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RiderLink.Shared.rsp"
-/FI"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Definitions.h"
-/Fo"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.obj"
-/experimental:log "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.sarif"
-/sourceDependencies "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.dep.json"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp"
+@"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RiderLink.Shared.rsp"
+/FI"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Definitions.h"
+/Fo"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.obj"
+/experimental:log "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.sarif"
+/sourceDependencies "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Module.RiderLink.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

@@ -1,5 +1,5 @@
 /I "."
-/I "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private"
+/I "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private"
 /I "Runtime/Core/Public"
 /I "Runtime/TraceLog/Public"
 /I "Runtime/AutoRTFM/Public"
@@ -283,7 +283,7 @@
 /I "Editor/SceneDepthPickerMode/Public"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/AnimationEditMode/UHT"
 /I "Editor/AnimationEditMode/Public"
-/I "P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Source"
+/I "P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Source"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"

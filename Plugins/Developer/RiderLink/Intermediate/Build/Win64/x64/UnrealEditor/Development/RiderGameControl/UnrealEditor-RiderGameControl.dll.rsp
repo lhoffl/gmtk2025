@@ -36,11 +36,10 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Module.RiderGameControl.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/RiderGameControl.cpp.obj"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Default.rc2.res"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/UnrealEditor-RD.lib"
-"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.lib"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Module.RiderGameControl.cpp.obj"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Default.rc2.res"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/UnrealEditor-RD.lib"
+"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/HeadMountedDisplay/UnrealEditor-HeadMountedDisplay.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelEditor/UnrealEditor-LevelEditor.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/UnrealEditor-UnrealEd.lib"
@@ -73,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.dll"
-/PDB:"P:/important/gameDev/_unrealProjects/Gmtk2025/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb"
+/OUT:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.dll"
+/PDB:"P:/important/gameDev/_unrealProjects/gmtk2025test/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb"
 /ignore:4078
