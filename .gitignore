@@ -49,10 +49,13 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
-# Allow FMOD binaries
-!Plugins/FMOD/
-!Plugins/FMOD/Binaries/
-!Plugins/FMOD/Binaries/**
+# Allow FMOD binaries explicitly
+!Plugins/FMODStudio/
+!Plugins/FMODStudio/Binaries/
+!Plugins/FMODStudio/Binaries/**
+!Plugins/FMODStudioNiagara/
+!Plugins/FMODStudioNiagara/Binaries/
+!Plugins/FMODStudioNiagara/Binaries/**
 
 # Builds
 Build/*
